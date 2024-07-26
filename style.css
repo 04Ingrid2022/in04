@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #ffffff;
     --cinza-secundario: #C0C0C0;
-    --botao-azul: #015091;
+    --botao-azul: #7a0f0f;
     --cor-de-fundo: #000000;
 }
 
@@ -56,3 +56,13 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
+
+.container_aviso {container_aviso 
+    {grid-template-columns: 0% 50%;
+    
+    }
+    grid-template-columns: 0% 50%;
+    container_aviso {
+        grid-template-columns: 0% 50%;
+     }
+     }
