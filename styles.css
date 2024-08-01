@@ -1,7 +1,7 @@
 
 
 :root {
-    --branco-principal: #FFFFFF;
+    --branco-principal: #220e0e;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #910101;
     --cor-de-fundo: #000000;
@@ -22,7 +22,7 @@ body {
 }
 
 .principal {
-    background-image: url("");
+    background-image: url("img\ fundo.png");
 
 }
 
@@ -48,3 +48,21 @@ body {
     background-color: transparent;
     border: 2px solid var(--branco-principal)
 }
+
+.container__imagem {
+    margin: 1em 0 2em 0;
+}
+
+.container__caixa {
+    margin: 0 6em;
+}
+
+.container_aviso {container_aviso 
+    {grid-template-columns: 0% 50%;
+    
+    }
+    grid-template-columns: 0% 50%;
+    container_aviso {
+        grid-template-columns: 0% 50%;
+     }
+     }
