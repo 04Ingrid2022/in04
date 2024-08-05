@@ -1,12 +1,8 @@
 :root {
-    --branco-principal: #ffffff;
+    --branco-principal: #fffbfb;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #7a0f0f;
     --cor-de-fundo: #000000;
-}
-
-body {
-    background-color: var(--cor-de-fundo);
 }
 
 body {
@@ -20,12 +16,8 @@ body {
 }
 
 .principal {
-    background-image: url("");
+    background-image: url("Papel\ de\ parede\ para\ computador\ ilustrado\ orgânico\ tons\ terrosos\ \(1\).png");
 
-}
-
-.container {
-    height: 100vh;
 }
 
 .container__botao {
@@ -56,13 +48,8 @@ body {
 .container__caixa {
     margin: 0 6em;
 }
-
-.container_aviso {container_aviso 
-    {grid-template-columns: 0% 50%;
     
-    }
-    grid-template-columns: 0% 50%;
-    container_aviso {
+    .container_aviso {
         grid-template-columns: 0% 50%;
      }
-     }
+     
