@@ -1,5 +1,5 @@
 :root {
-    --branco-principal: #fffbfb;
+    --branco-principal: #000000;
     --cinza-secundario: #C0C0C0;
     --botao-azul: #7a0f0f;
     --cor-de-fundo: #000000;
@@ -52,4 +52,5 @@ body {
     .container_aviso {
         grid-template-columns: 0% 50%;
      }
+     
      
